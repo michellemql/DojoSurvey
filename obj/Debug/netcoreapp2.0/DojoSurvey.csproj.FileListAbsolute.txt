@@ -1,0 +1,10 @@
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.deps.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.dev.json
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.pdb
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.csproj.CoreCompileInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfoInputs.cache
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfo.cs
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/maggieli/Documents/CodingDojo/csharp_stack/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.pdb

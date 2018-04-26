@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Result</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <div id="wrapper">
+            <h2>Submitted Info</h2>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td>@ViewBag.Name</td>
+                </tr>
+                <tr>
+                    <td>Dojo Location:</td>
+                    <td>@ViewBag.Location</td>
+                </tr>
+                <tr>
+                    <td>Favorite Language:</td>
+                    <td>@ViewBag.Language</td>
+                </tr>
+                <tr>
+                    <td>Comment:</td>
+                    <td>@ViewBag.Comment</td>
+                </tr>
+            </table>
+            <a href="/Home"><button type="submit">Go Back</button></a>
+        </div>
+    </body>
+</html>
